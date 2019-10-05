@@ -1,0 +1,16 @@
+
+
+Tools 
+    - HTML 
+    - CSS
+    - Angular (V2 up to V8)
+    - Bootstrap
+    - Firebase 
+    - 
+
+Angular Libraries
+    - Bootstrap
+    - Font Awesome
+    - Firebase
+    - Flash Messages 
+    - 
